@@ -1,0 +1,30 @@
+Added Component: Designator=R1(0201-RES)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part No"; Value = "ERJ-1GEF1002C"; VariantName = "[No Variations]"
+Added Component: Designator=R2(0201-RES)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part No"; Value = "ERJ-1GEF1002C"; VariantName = "[No Variations]"
+Added Component: Designator=R3(0201-RES)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part No"; Value = "ERJ-1GEF1002C"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=IC1-18
+Added Pin To Net: NetName=GND Pin=IC1-18
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=IC1-10
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC2_1 Pin=IC1-13
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetIC1_22 Pin=IC1-22
+Added Pin To Net: NetName=NetIC1_22 Pin=R3-2
+Added Net: Name=NetIC1_22
+Added Pin To Net: NetName=NetIC1_23 Pin=IC1-23
+Added Pin To Net: NetName=NetIC1_23 Pin=R1-2
+Added Net: Name=NetIC1_23
+Added Pin To Net: NetName=NetIC1_24 Pin=IC1-24
+Added Pin To Net: NetName=NetIC1_24 Pin=R2-2
+Added Net: Name=NetIC1_24
+Added Net: Name=VCC
+Added Member To Class: ClassName=mpu-9250 Member=Component R1 10k
+Added Member To Class: ClassName=mpu-9250 Member=Component R2 10k
+Added Member To Class: ClassName=mpu-9250 Member=Component R3 10k
+Added Room: Name=mpu-9250

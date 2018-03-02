@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=nCS Pin=IC1-22
+Added Pin To Net: NetName=nCS Pin=R2-2
+Added Net: Name=nCS
+Added Pin To Net: NetName=SCL/SCLK Pin=IC1-23
+Added Pin To Net: NetName=SCL/SCLK Pin=R3-2
+Added Net: Name=SCL/SCLK
+Added Pin To Net: NetName=SDA/SDI Pin=IC1-24
+Added Pin To Net: NetName=SDA/SDI Pin=R1-2
+Added Net: Name=SDA/SDI
+Added Pin To Net: NetName=VDDIO Pin=R1-1
+Added Pin To Net: NetName=VDDIO Pin=R2-1
+Added Pin To Net: NetName=VDDIO Pin=R3-1
+Added Net: Name=VDDIO
+Added Room: Name=mpu-9250

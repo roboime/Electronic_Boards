@@ -1,0 +1,5 @@
+Added Component: Designator=IC1(MPU-9250)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part No"; Value = "MPU-9250"; VariantName = "[No Variations]"
+Added Class: Name=mpu-9250
+Added Room: Name=mpu-9250

@@ -1,0 +1,4 @@
+Added Component: Designator=STM32F4-DISCOVERY-SCH(STM32F4-DISCOVERY-PCB)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=mpu-9250 Member=Component STM32F4-DISCOVERY-SCH
+Added Room: Name=mpu-9250

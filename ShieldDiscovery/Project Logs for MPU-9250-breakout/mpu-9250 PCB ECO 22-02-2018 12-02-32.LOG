@@ -1,0 +1,17 @@
+Added Component: Designator=C1(0402-CAP)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cod EMS"; Value = "05.281.006.133"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No"; Value = "VJ0402V104ZXQPBC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C2(0402-CAP)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cod EMS"; Value = "05.281.006.133"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No"; Value = "VJ0402V104ZXQPBC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=VCC Pin=C2-2
+Added Member To Class: ClassName=mpu-9250 Member=Component C1 100nF
+Added Member To Class: ClassName=mpu-9250 Member=Component C2 100nF
+Added Room: Name=mpu-9250
