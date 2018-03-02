@@ -1,0 +1,9 @@
+*
+* This spice model was created using the Altium Spice Model Wizard
+* Created: 18:11 on 19 fevereiro, 2018
+*
+* Component Name: R1
+*
+.MODEL R1 R
++(
++)
