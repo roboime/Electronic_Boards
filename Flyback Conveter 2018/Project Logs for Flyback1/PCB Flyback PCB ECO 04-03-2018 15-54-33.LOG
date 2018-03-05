@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=R5 Old Footprint=RES-1206 New Footprint=RES1206
+Change Component Description : Designator=R5 Old Description=RES 15m OHM 1W 1% 1210 SMD New Description=Resistor
+Change Class Name : Old Net Name=Sheet1 New Net Name=Sch Flyback
+Added Member To Class: ClassName=Sch Flyback Member=Component R1 100K
