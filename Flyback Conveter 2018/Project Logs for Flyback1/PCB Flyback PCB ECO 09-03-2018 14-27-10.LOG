@@ -1,0 +1,5 @@
+Added Component: Designator=C6(CAP ALUM 47UF 250V)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC6_Cap+ Pin=C6-Cap+
+Added Pin To Net: NetName=GND Pin=C6-Cap-
+Added Member To Class: ClassName=Sch Flyback Member=Component C6 47uF
