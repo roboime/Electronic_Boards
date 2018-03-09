@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=C6-2
+Change Component Footprint: Designator=C6 Old Footprint=CAPC0603(1608)55_L New Footprint=CAP ALUM 100UF 200V
+Change Component Comment : Designator=C6 Old Comment=470pF New Comment=CAP ALUM 100UF 200V
+Change component parameters: Designator = "C6"; Footprint = "CAP ALUM 100UF 200V"; UniqueID = "\TOLUAYPP"
+Change component parameters. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C6-Cap-
+Added Pin To Net: NetName=NetC6_Cap+ Pin=C6-Cap+
+Added Pin To Net: NetName=NetC6_Cap+ Pin=CON1-1
+Added Pin To Net: NetName=NetC6_Cap+ Pin=D1-D1+
+Added Net: Name=NetC6_Cap+
+Added Member To Class: ClassName=Sch Flyback Member=Component C1 10uF
+Added Member To Class: ClassName=Sch Flyback Member=Component C2 10uF
+Added Member To Class: ClassName=Sch Flyback Member=Component C3 10uF
+Added Member To Class: ClassName=Sch Flyback Member=Component Q1 CSD18540Q5BT
