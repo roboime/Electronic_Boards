@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VCC Pin=LT3750-3
+Change Component Description : Designator=R5 Old Description=Current Sense Resistors - SMD 1Watt 0.015Ohms 1% New Description=Current Sense Resistors - SMD 1206 1Watt 0.015Ohms 1%
+Added Pin To Net: NetName=CHARGE_ENABLE Pin=LT3750-3
+Added Pin To Net: NetName=CHARGE_ENABLE Pin=P1-12
+Added Net: Name=CHARGE_ENABLE
